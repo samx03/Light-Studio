@@ -3,7 +3,7 @@ import reducer from "./reducer";
 
 const AppContext = React.createContext();
 
-const API = "api.json";
+const API = "../api.json";
 
 const initialState = {
   topdata: "",
