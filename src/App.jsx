@@ -37,7 +37,7 @@ const App = () => {
     <ThemeProvider theme={theme}>
       <GlobalStyle />
       <BrowserRouter>
-        <Header />
+        {/* <Header /> */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -46,7 +46,7 @@ const App = () => {
           {/* <Route path="*" element={<Error />} /> */}
         </Routes>
         <GoToTop />
-        <Footer />
+        {/* <Footer /> */}
       </BrowserRouter>
     </ThemeProvider>
   );
