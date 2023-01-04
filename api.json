@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "image": "https://images.unsplash.com/photo-1661956602944-249bcd04b63f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilisculpa, quibusdam reprehenderit velit molestiae."
+  },
+  {
+    "id": 2,
+    "title": "App Development",
+    "image": "https://images.unsplash.com/photo-1609921141835-710b7fa6e438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilisculpa, quibusdam reprehenderit velit molestiae."
+  },
+  {
+    "id": 3,
+    "title": "Software Development",
+    "image": "https://images.unsplash.com/photo-1573495627361-d9b87960b12d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilisculpa, quibusdam reprehenderit velit molestiae."
+  },
+  {
+    "id": 4,
+    "title": "Graphic Designer",
+    "image": "https://images.unsplash.com/photo-1620912189875-3fdb2380621b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilisculpa, quibusdam reprehenderit velit molestiae."
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing",
+    "image": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilisculpa, quibusdam reprehenderit velit molestiae."
+  }
+]
