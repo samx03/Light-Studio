@@ -6,6 +6,7 @@ import { Button } from "../styles/Button";
 
 const Services = () => {
   const { services } = useGlobalContext();
+  console.log(services);
   return (
     <Wrapper classname="section">
       <h2 className="common-heading">Our Services</h2>
